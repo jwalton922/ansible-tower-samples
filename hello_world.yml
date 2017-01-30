@@ -1,7 +1,7 @@
-- name: Hello World Sample
+- name: Josh Hello World Sample
   hosts: all
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
+        msg: "Josh says 'Hello World!'"
 
